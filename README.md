@@ -1,6 +1,6 @@
 # Hello, I'm Edgar 👋
 
-I'm currently working on studying back-end, I always try to do my best in carrying out personal/professional projects. I'm currently studying .NET, Python and Java.
+I really enjoy studying back-end, I always try to do my best in carrying out personal/professional projects. I'm currently studying .NET, Python and Java.
 
 🌎 I'm from Brazil
 
