@@ -1,12 +1,18 @@
 # Hello, I'm Edgar 👋
 
-I really enjoy studying back-end, I always try to do my best in carrying out personal/professional projects. I'm currently studying .NET, Python and Java.
+I'm an IT professional transitioning into Web Development.  
+For the last few years I've worked with infrastructure and security in Windows environments (Active Directory, SCCM, Matrix42, Nexthink, Trellix AV and firewall), mainly in industrial context.
 
-🌎 I'm from Brazil
+Right now I'm focusing on **web and back-end development** through bootcamps (DIO, TripleTen and GFT Start .NET) and a **Cyber Security** course at Trainning Education.
 
-💻  My skills are: Python, C, C# .
+🌎 From Brazil  
+🎓 BSc in Computer Engineering – Facens  
+💼 Background: Windows Server, Active Directory, PowerShell, SCCM, IT support & security  
+📚 Currently learning: HTML, CSS, JavaScript, .NET, Git/GitHub  
+🚀 Goal: build solid, well-structured projects and get my first role as a Junior Developer.
 
-💼  I'm currently graduating in Computer Engeneering at  [Facens](https://www.facens.br/home).
+Feel free to check my repositories and reach out 🙂
+
 
 Reach me out! 👇🏽
 
